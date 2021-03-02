@@ -1,0 +1,11 @@
+sklearn
+textblob
+textstat
+rake_nltk
+fuzzywuzzy
+gensim
+Levenshtein
+spacy
+matplotlib
+pandas
+wordcloud

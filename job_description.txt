@@ -1,0 +1,24 @@
+The AWS Mobile team is continuously innovating and expanding our mobile services to enable developers to quickly build, deploy, and manage native, web, and hybrid apps for iOS and Android. By leveraging our services, developers are able to easily deliver rich cloud-enabled experiences to their customers by integrating a broad range of AWS services into their apps including voice & chat capabilities, user engagement, analytics, push notifications, cloud storage, NoSQL databases, GraphQL, online/offline data synchronization and serverless business logic.
+
+The AWS Mobile SDKs are currently being used by tens of thousands of developers and thousands of mobile apps. We need to grow in order to meet demand for our services and to build new features for our users. We have exciting new projects that will continue to simplify and speed the creation and management of cloud-enabled apps. This is a unique opportunity to join a team that is working to change the mobile industry; we are moving from a Mobile First to a Mobile Only world where we aim to enable millions of people to enrich their experience with everyday mobile experiences that become smarter over time, help them live a healthier lifestyle, and have meaningful and real time interactions with services providers, public services, and their workplaces.
+
+You will be responsible for developing the Amplify for Flutter Library which helps eliminate the friction and complexity of wiring up native mobile app projects to AWS services using Dart and Flutter. Our mission is to make it easy for Mobile App Developers to get up and running quickly using AWS services even if they are unfamiliar with them, so they can focus on building great innovative experiences for their customers.
+
+We are looking for a senior developer who is passionate about creating software for other developers and has a strong track record of successfully delivering new features and products. A commitment to team work, initiative, and strong communication skills are a must. Creating reliable, scalable, and high performance products requires exceptional technical expertise, a sound understanding of the fundamentals of Computer Science, and practical experience building scalable software products. This person thrives on delivering high quality technology solutions in an environment where priorities shift fast to meet the changing needs of our customers.
+
+As a member of the team, you will:
+· Work closely with the product team and other AWS teams to deliver on the team’s technical vision
+· Influence technical strategy to build products developers will love
+· Drive team discussions on system architecture and component design
+· Lead development and launch of core features and products
+· Participate in all stages of the software development cycle, including design and development of significant new architectural systems and improvements
+· Participate in estimation and sprint planning
+
+Mentor
+We have a formal mentor search application that lets you find a mentor that works best for you based on location, job family, job level etc. Your manager can also help you find a mentor or two, because two is better than one. In addition to formal mentors, we work and train together so that we are always learning from one another, and we celebrate and support the career progression of our team members.
+
+Inclusion
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Work-Life Balance
+Our team also puts a high value on work-life balance. Striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. Instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work.
